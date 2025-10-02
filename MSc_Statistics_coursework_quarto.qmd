@@ -1,7 +1,7 @@
 ---
 title: "Coursework Template"
 subtitle: 'MSc in Statistics 2025/26, Imperial College London'
-author: "Andrew Duncan, Oliver Ratmann"
+author: "Shuyao Zhou CID:06055574"
 format:
   html:
     toc: true
